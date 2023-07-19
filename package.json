@@ -1,0 +1,16 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "Generates QR code for an link",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudhanshu B",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.8",
+    "qr-image": "^3.2.0"
+  }
+}
